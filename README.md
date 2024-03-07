@@ -40,20 +40,19 @@ Table of Contents-
 
 
 <hr>
-Installation
+<span style="font-size:larger;">Installation</span>
 Provide instructions on how to install and run the project locally, including any prerequisites and dependencies.
 
 1.Clone the repository: git clone https://github.com/gebadakash/Coached-And-Connected.git
 2.Navigate to the project directory: cd coaching-app
 3.Install dependencies: npm install
 
-
-Usage
+<span style="font-size:larger;">Usage</span>
 Explain how users can navigate through the website, browse courses, contact the administrator, and apply for online admission. 
 Include screenshots or GIFs to demonstrate the functionality.
 
 
-Contributing
+<span style="font-size:larger;">Contributing</span>
 Outline how others can contribute to the project, such as reporting bugs, 
 suggesting enhancements, or submitting pull requests.
 
@@ -66,12 +65,11 @@ suggesting enhancements, or submitting pull requests.
 6. Create a new Pull Request
 
 
-Acknowledgements
+<span style="font-size:larger;">Acknowledgement</span>
 Optionally, express gratitude to individuals or projects that have contributed to or inspired the development of the project.
 
-Contact
+<span style="font-size:larger;">Contact</span>
 Provide contact information for users to reach out with questions, feedback, or inquiries.
-
 
 
 # React + Vite
