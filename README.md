@@ -32,18 +32,8 @@ Table of Contents
 
 
 <hr>
-![Home](https://github.com/gebadakash/Coached-And-Connected/assets/137673292/355327cb-5ef1-4733-aa40-04ea6e44978a)
 
-
-<hr>
-![Online Addmision](https://github.com/gebadakash/Coached-And-Connected/assets/137673292/b71fd5d9-1fff-4860-95e7-fe5ceab8ed74)
-
-
-<hr>
-![contact us](https://github.com/gebadakash/Coached-And-Connected/assets/137673292/74dfdcb5-b2df-4ba1-ba58-6e537eca9a21)
-
-<hr>
-![aboutUs](https://github.com/gebadakash/Coached-And-Connected/assets/137673292/d2549df7-f7ad-40d5-b484-a63774450f4a)
+![contact us](https://github.com/gebadakash/Coached-And-Connected/assets/137673292/fd17a7ac-96ff-49f2-83b0-59009c0434a4)
 
 <hr>
 Installation
