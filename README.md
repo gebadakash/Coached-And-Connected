@@ -14,13 +14,11 @@ Backend: Java Spring Boot, Rest Api
 Database: Mysql
 
 
-Table of Contents
-<li>
-<ol>Installation</ol>
-<ol>Usage</ol>
-<ol>Contributing</ol>
-<ol>License</ol>
-</li>
+Table of Contents-
+<li>Installation</li>
+<li>Usage</li>
+<li>Contributing</li>
+<li>License</li>
 
 <hr>
 
